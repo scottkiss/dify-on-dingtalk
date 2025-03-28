@@ -1,5 +1,5 @@
 FROM python:3.10-slim-bookworm
-LABEL authors="zfanswer"
+LABEL authors="scottkiss"
 
 WORKDIR /app
 COPY . /app
